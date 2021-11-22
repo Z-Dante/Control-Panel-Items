@@ -4,4 +4,5 @@ Also works with custom start menu programs like StartIsBack/StartAllBack and lau
 Tested on Windows 11
 
 Run Quck-install.bat as admin to add to start menu automatically
+
 Similarly run Quck-uninstall.bat to remove the added items
